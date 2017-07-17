@@ -1,0 +1,1 @@
+java -jar graphwalker-cli-3.4.2.jar -d all online -s RESTFUL -m small_model.graphml "random(edge_coverage(100))"

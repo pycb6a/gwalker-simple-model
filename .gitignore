@@ -1,0 +1,6 @@
+.cache
+.idea
+.hg
+*.pyc
+*.orig
+gwalker_simple_model.egg-info
